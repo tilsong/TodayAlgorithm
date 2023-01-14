@@ -1,21 +1,26 @@
-## 📌알고리즘 풀이
+# 📌알고리즘 풀이
 
-- 알고리즘 풀이를 코드와 아래 내용을 포함하여 기록합니다.
+- **알고리즘 풀이를 코드와 아래 내용을 포함하여 기록합니다.**
   - 성공 시 소요 시간, 실패 시 소요 시간 및 사유
   - 입력, 출력
   - 풀이 방향
   - 시간 복잡도
   - 다른 풀이
   - 실행 코드
-- 예시
+  
+  <br>
+- **예시**
   - [230114 | 상하좌우](https://github.com/tilsong/TodayAlgorithm/blob/main/Ecote/part4/상하좌우.java)
   - [230114 | (F)게임게발](https://github.com/tilsong/TodayAlgorithm/blob/main/Ecote/part4/게임개발.java)
+
+<br>
+
 - 풀이 실패 시 문제 명 앞에 (F)를 붙이고, 다시 풀어 성공 시 (S)를 붙입니다.
 <br>
 <br>
 
 ---
-## 🧺유형별 분류
+# 🧺유형별 분류
 
 ### Greedy
 
