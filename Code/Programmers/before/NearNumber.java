@@ -1,4 +1,4 @@
-package org.programmers.before;
+package Programmers.before;
 
 public class NearNumber {
 	// s: "banana"  answer: [-1, -1, -1, 2, 2, 2]

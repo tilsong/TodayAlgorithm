@@ -1,4 +1,4 @@
-package part3;
+package Ecote.part3;
 
 import java.util.Scanner;
 

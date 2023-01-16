@@ -1,4 +1,4 @@
-package org.programmers.before;
+package Programmers.before;
 
 public class Coke {
 	public int solution(int a, int b, int n) {

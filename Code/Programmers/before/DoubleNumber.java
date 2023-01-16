@@ -1,4 +1,4 @@
-package org.programmers.before;
+package Programmers.before;
 
 import java.util.HashMap;
 import java.util.Map;

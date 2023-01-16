@@ -1,4 +1,4 @@
-package org.programmers.before;
+package Programmers.before;
 
 public class DartGame {
 	public int solution(String dartResult) {

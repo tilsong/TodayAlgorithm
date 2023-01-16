@@ -1,4 +1,4 @@
-package org.programmers.before;
+package Programmers.before;
 
 public class Weapon {
 	// number: 10,  limit: 3,  power: 2

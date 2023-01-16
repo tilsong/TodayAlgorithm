@@ -1,4 +1,4 @@
-package org.programmers.before;
+package Programmers.before;
 
 public class NewId {
 	public String solution(String new_id) {

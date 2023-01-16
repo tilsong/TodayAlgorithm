@@ -1,4 +1,4 @@
-package org.programmers.before;
+package Programmers.before;
 
 public class PartialString {
 	// t: "3141592",	p: "271"	answer: 2
