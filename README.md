@@ -53,3 +53,4 @@
 ### 이진 탐색
 - [230118 | 이진 탐색](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part7/이진탐색.java)
 - [230118 | 부품 찾기](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part7/부품찾기.java)
+- [230119 | 떡볶이 떡 만들기](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part7/떡볶이떡만들기.java)
