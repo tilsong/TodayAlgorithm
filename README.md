@@ -41,3 +41,15 @@
 - [230115 | 음료수 얼려먹기](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part5/음료수얼려먹기.java)
 - [230115 | (F) 미로 탈출](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part5/미로탈출.java)
 - [230116 | 숨바꼭질(B1697)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DfsBfs/숨바꼭질.java)
+
+### 정렬
+- [230117 | 선택 정렬](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part6/선택정렬.java)
+- [230117 | 삽입 정렬](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part6/삽입정렬.java)
+- [230117 | 퀵 정렬](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part6/퀵정렬.java)
+- [230117 | 계수 정렬](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part6/계수정렬.java)
+- [230117 | 위에서 아래로](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part6/위에서아래로.java)
+- [230117 | 두 배열의 원소 교체](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part6/두배열의원소교체.java)
+
+### 이진 탐색
+- [230118 | 이진 탐색](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part7/이진탐색.java)
+- [230118 | 부품 찾기](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part7/부품찾기.java)
