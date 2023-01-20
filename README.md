@@ -60,6 +60,7 @@
 - [230119 | 1로 만들기](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part8/일로만들기.java)
 - [230119 | 개미 전사](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part8/개미전사.java)
 - [230119 | 바닥 공사](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part8/바닥공사.java)
+- [230119 | 효율적인 화폐 구성](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part8/효율적인화폐구성.java)
 
 
 ### 미분류
