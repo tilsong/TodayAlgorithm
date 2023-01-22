@@ -61,7 +61,7 @@ public class 효율다익스트라 {
 			for (int i = 0; i < graph.get(now).size(); i++) {
 				int cost = d[now] + graph.get(now).get(i).getDistance();
 				// 현재 노드를 거쳐서, 다른 노드로 이동하는 거리가 더 짧은 경우
-				if (cost < d[graph.get(now).get(i).getDistance()]) {
+				if (cost < d[graph.get(now).get(i).getIndex()]) {
 					d[graph.get(now).get(i).getIndex()] = cost;
 					pq.offer(new Node(graph.get(now).get(i).getIndex(), cost));
 				}

@@ -37,8 +37,8 @@ public class 워셜플로이드 {
 		}
 
 		// 점화식에 따라 플로이드 워셜 알고리즘을 수행
-		for (int k = 1; k <= n; k++) {
-			for (int a = 1; a <= n; a++) {
+		for (int k = 1; k <= n; k++) { // 중간 노드
+			for (int a = 1; a <= n; a++) { // a-> k -> b
 				for (int b = 1; b <= n; b++) {
 					graph[a][b] = Math.min(graph[a][b], graph[a][k] + graph[k][b]);
 				}

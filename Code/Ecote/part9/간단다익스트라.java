@@ -68,7 +68,7 @@ public class 간단다익스트라 {
 			for (int j = 0; j < graph.get(now).size(); j++) {
 				int cost = d[now] + graph.get(now).get(j).getDistance();
 				// 현재 노드를 거쳐서 다른 노드로 이동하는 거리가 더 짧은 경우
-				if (cost < d[graph.get(now).get(j).getDistance()]) {
+				if (cost < d[graph.get(now).get(j).getIndex()]) {
 					d[graph.get(now).get(j).getIndex()] = cost;
 				}
 			}
