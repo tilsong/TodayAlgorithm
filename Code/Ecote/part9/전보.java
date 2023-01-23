@@ -30,7 +30,7 @@ public class 전보 {
 		}
 	}
 
-	public static ArrayList<ArrayList<Node>> graph = new ArrayList<>(); // 노드 간 최단 거리 정보
+	public static ArrayList<ArrayList<Node>> graph = new ArrayList<>(); // 간선 정보(a -> b, d)
 	public static int[] d; // 출발지 기준 최단 거리 테이블
 	public static int INF = (int) 1e9; // 무한 의미하는 수
 
@@ -50,7 +50,7 @@ public class 전보 {
 	//			도달 가능한 노드의 수에서 가장 긴 최대 도달 시간을 가진 노드의 시간을 최대 도달 시간으로 보면 되겠다는 결론을 내리게 되었다.
 	// 시간 복잡도: O(Elog(N)
 	public static void mySolution(int n, int start) {
-		// 노드 간 최단 거리 리스트 초기화
+		// 간선 정보 초기화
 		for (int i = 0; i <= n; i++) {
 			graph.add(new ArrayList<Node>());
 		}
