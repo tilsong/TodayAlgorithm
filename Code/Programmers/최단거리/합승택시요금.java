@@ -16,13 +16,11 @@ public class 합승택시요금 {
     //           (s -> i) + (i-> a) + (i -> b) 비교하여 최저 요금 도출하기 (i는 s, a, b일 수 있음)
     // 시간 복잡도: O(N^3)
 
-    int [][] d;
     final int INF = (int) 1e9;
 
     public int solution(int n, int s, int a, int b, int[][] fares) {
         int [][] d = new int[201][201]; // 최단 거리 테이블
 
-        public int solution(int n, int s, int a, int b, int[][] fares) {
             final int INF = 10000000;
 
             // 최단 거리 테이블 초기화
@@ -54,6 +52,5 @@ public class 합승택시요금 {
             }
 
             return minFare;
-        }
     }
 }
