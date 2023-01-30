@@ -41,6 +41,8 @@
 - [230115 | 음료수 얼려먹기](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part5/음료수얼려먹기.java)
 - [230115 | (F) 미로 탈출](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part5/미로탈출.java)
 - [230116 | 숨바꼭질(B1697)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DfsBfs/숨바꼭질.java)
+- [230130 | Dfs와Bfs(B1260)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DfsBfs/Dfs와Bfs.java)
+- [230130 | (F) 적록색약(B10026)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DfsBfs/적록색약.java)
 
 ### 정렬
 - [230117 | 선택 정렬](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part6/선택정렬.java)
