@@ -56,6 +56,8 @@
 - [230117 | 계수 정렬](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part6/계수정렬.java)
 - [230117 | 위에서 아래로](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part6/위에서아래로.java)
 - [230117 | 두 배열의 원소 교체](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part6/두배열의원소교체.java)
+- [230206 | 국영수(B10825)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/국영수.java)
+
 
 ### 이진 탐색
 - [230118 | 이진 탐색](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part7/이진탐색.java)
