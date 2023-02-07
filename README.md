@@ -58,6 +58,7 @@
 - [230117 | 두 배열의 원소 교체](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part6/두배열의원소교체.java)
 - [230206 | 국영수(B10825)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/국영수.java)
 - [230207 | H-Index(P, 고득점 kit - 정렬)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/정렬/HIndex.java)
+- [230207 | 통나무 건너뛰기(B11497)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/통나무건너뛰기.java)
 
 
 ### 이진 탐색
