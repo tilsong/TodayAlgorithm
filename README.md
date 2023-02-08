@@ -60,6 +60,7 @@
 - [230207 | H-Index(P, 고득점 kit - 정렬)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/정렬/HIndex.java)
 - [230207 | (F) 통나무 건너뛰기(B11497)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/통나무건너뛰기.java)
 - [230207 | 회의실 배정(B1931)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/회의실배정.java)
+- [230208 | 빈도 정렬(B2910)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/빈도정렬.java)
 
 
 ### 이진 탐색
