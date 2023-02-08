@@ -62,6 +62,7 @@
 - [230207 | 회의실 배정(B1931)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/회의실배정.java)
 - [230208 | 빈도 정렬(B2910)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/빈도정렬.java)
 - [230208 | 센서(B2212)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/센서.java)
+- [230208 | 카드 정렬하기(B1715)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/카드정렬하기.java)
 
 
 ### 이진 탐색
