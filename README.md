@@ -28,6 +28,7 @@
 - [230114 | 숫자 카드 게임](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part3/숫자카드게임.java)
 - [230114 | 1이 될 때까지](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part3/일이될때까지.java)
 - [230114 | 큰 수의 법칙](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part3/큰수의법칙.java)
+- [230210 | 기지국 설치(P, Summer/Winter Coding(~2018))](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/정렬/기지국설치.java)
 
 ### 구현
 
@@ -64,13 +65,13 @@
 - [230208 | 센서(B2212)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/센서.java)
 - [230208 | 카드 정렬하기(B1715)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/카드정렬하기.java)
 - [230209 | 내일 할꺼야(B7983)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/내일할꺼야.java)
-- [230210 | 기지국 설치(P, Summer/Winter Coding(~2018))](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/정렬/기지국설치.java)
 
 
 ### 이진 탐색
 - [230118 | 이진 탐색](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part7/이진탐색.java)
 - [230118 | 부품 찾기](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part7/부품찾기.java)
 - [230119 | 떡볶이 떡 만들기](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part7/떡볶이떡만들기.java)
+- [230210 | (S) 먹을 것인가 먹힐 것인가](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/먹을것인가먹힐것인가.java)
 
 ### DP
 - [230120 | 피보나치](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part8/피보나치.java)

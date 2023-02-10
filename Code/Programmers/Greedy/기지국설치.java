@@ -1,4 +1,4 @@
-package Programmers.정렬;
+package Programmers.Greedy;
 
 public class 기지국설치 {
 
