@@ -64,6 +64,7 @@
 - [230208 | 센서(B2212)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/센서.java)
 - [230208 | 카드 정렬하기(B1715)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/카드정렬하기.java)
 - [230209 | 내일 할꺼야(B7983)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/내일할꺼야.java)
+- [230210 | 기지국 설치(P, Summer/Winter Coding(~2018))](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/정렬/기지국설치.java)
 
 
 ### 이진 탐색
