@@ -71,9 +71,10 @@
 - [230118 | 이진 탐색](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part7/이진탐색.java)
 - [230118 | 부품 찾기](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part7/부품찾기.java)
 - [230119 | 떡볶이 떡 만들기](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part7/떡볶이떡만들기.java)
-- [230210 | (S) 먹을 것인가 먹힐 것인가](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/먹을것인가먹힐것인가.java)
-- [230211 | 어두운 굴다리](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/어두운굴다리.java)
-- [230211 | 과자 나눠주기](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/과자나눠주기.java)
+- [230210 | (S) 먹을 것인가 먹힐 것인가(B7795)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/먹을것인가먹힐것인가.java)
+- [230211 | 어두운 굴다리(B17266)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/어두운굴다리.java)
+- [230211 | 과자 나눠주기(B16401)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/과자나눠주기.java)
+- [230211 | (S) 개똥벌레(B3020)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/개똥벌레.java)
 
 ### DP
 - [230120 | 피보나치](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part8/피보나치.java)
