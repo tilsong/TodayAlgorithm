@@ -73,6 +73,7 @@
 - [230119 | 떡볶이 떡 만들기](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part7/떡볶이떡만들기.java)
 - [230210 | (S) 먹을 것인가 먹힐 것인가](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/먹을것인가먹힐것인가.java)
 - [230211 | 어두운 굴다리](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/어두운굴다리.java)
+- [230211 | 과자 나눠주기](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/과자나눠주기.java)
 
 ### DP
 - [230120 | 피보나치](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part8/피보나치.java)
