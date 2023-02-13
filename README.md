@@ -76,6 +76,7 @@
 - [230211 | 과자 나눠주기(B16401)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/과자나눠주기.java)
 - [230211 | (S) 개똥벌레(B3020)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/개똥벌레.java)
 - [230213 | 수찾기(B1920)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/수찾기.java)
+- [230213 | 두개의배열(B17124)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/두개의배열.java)
 
 ### DP
 - [230120 | 피보나치](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part8/피보나치.java)
