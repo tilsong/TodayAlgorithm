@@ -78,6 +78,7 @@
 - [230213 | 수찾기(B1920)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/수찾기.java)
 - [230213 | 두 개의 배열(B17124)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/두개의배열.java)
 - [230214 | 나무 자르기(B2805)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/나무자르기.java)
+- [230214 | 입국 심사(P, 이분탐색)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/이분탐색/입국심사.java)
 
 ### DP
 - [230120 | 피보나치](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part8/피보나치.java)
@@ -90,7 +91,7 @@
 - [230122 | 미래 도시](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part9/미래도시.java)
 - [230122 | 전보](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part9/전보.java)
 - [230122 | 배달(P, Summer/Winter Coding(~2018))](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/최단거리/배달.java)
-- [230124 | 합승 택시 요금(P, 2021 KAKAO BLIND RECRUITMENT](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/최단거리/합승택시요금.java)
+- [230124 | 합승 택시 요금(P, 2021 KAKAO BLIND RECRUITMENT)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/최단거리/합승택시요금.java)
 
 ### 투포인터
 - [230214 | 두 수의 합(B9024)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/투포인터/두수의합.java)
