@@ -92,5 +92,8 @@
 - [230122 | 배달(P, Summer/Winter Coding(~2018))](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/최단거리/배달.java)
 - [230124 | 합승 택시 요금(P, 2021 KAKAO BLIND RECRUITMENT](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/최단거리/합승택시요금.java)
 
+### 투포인터
+- [230214 | 두 수의 합(B9024)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/투포인터/두수의합.java)
+
 ### 미분류
 - [230120 | CaesarCipher(B15874)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/미분류/CaesarCipher.java)
