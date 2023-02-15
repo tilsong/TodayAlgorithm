@@ -79,6 +79,7 @@
 - [230213 | 두 개의 배열(B17124)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/두개의배열.java)
 - [230214 | 나무 자르기(B2805)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/이분탐색/나무자르기.java)
 - [230214 | 입국 심사(P, 이분탐색)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/이분탐색/입국심사.java)
+- [230215 | (S) 공유기 설치(B2110)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/이분탐색/공유기설치.java)
 
 ### DP
 - [230120 | 피보나치](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part8/피보나치.java)
