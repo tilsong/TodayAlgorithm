@@ -1,4 +1,4 @@
-package Boj.이분탐색;
+package Programmers.이분탐색;
 
 public class 징검다리건너기 {
 	public static void main(String[] args) {
