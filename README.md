@@ -96,6 +96,7 @@
 - [230219 | 오르막 수](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DP/오르막수.java)
 - [230219 | (S) 1,2,3 더하기 4](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DP/일이삼더하기사.java)
 - [230219 | (S) 지름길](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DP/지름길.java)
+- [230219 | 정수 삼각형](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/DP/정수삼각형.java)
 
 ### 다익스트라
 - [230122 | 미래 도시](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part9/미래도시.java)
