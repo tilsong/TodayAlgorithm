@@ -16,8 +16,6 @@ public class 파스칼삼각형 {
     // 풀이 방향: 세로 30, 가로 30의 파스칼 삼각형을 만든다. 이 때, 삼각형의 정수는 [C][R] = [C-1][R-1] + [C-1][R] (C >= 2)
     //           를 만족한다.
     // 시간 복잡도: O(N^2), 최대 9000.
-
-
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
