@@ -106,6 +106,9 @@
 - [230122 | 전보](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part9/전보.java)
 - [230122 | 배달(P, Summer/Winter Coding(~2018))](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/최단거리/배달.java)
 - [230124 | 합승 택시 요금(P, 2021 KAKAO BLIND RECRUITMENT)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/최단거리/합승택시요금.java)
+- [230227 | 파티(B1238)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/최단거리/파티.java)
+- [230228 | 녹색 옷을 입은 애가 젤다지?(B4485)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/최단거리/녹색옷을입은애가젤다지.java)
+
 
 ### 투포인터
 - [230214 | 두 수의 합(B9024)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/투포인터/두수의합.java)
