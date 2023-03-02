@@ -113,6 +113,9 @@
 - [230301 | (F) 발전소 설치(B1277)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/최단거리/발전소설치.java)
 - [230302 | 운동(B1956)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/최단거리/운동.java)
 
+### 백트래킹
+- [230302 | N과 M(1)(B15649)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/백트래킹/N과M_1.java)
+
 
 ### 투포인터
 - [230214 | 두 수의 합(B9024)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/투포인터/두수의합.java)
