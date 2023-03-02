@@ -111,6 +111,7 @@
 - [230301 | 끊나지 않는 파티(B11265)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/최단거리/끊나지않는파티.java)
 - [230301 | 숨바꼭질3(B13549)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/최단거리/숨바꼭질3.java)
 - [230301 | (F) 발전소 설치(B1277)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/최단거리/발전소설치.java)
+- [230302 | 운동(B1956)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/최단거리/운동.java)
 
 
 ### 투포인터
