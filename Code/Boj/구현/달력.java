@@ -3,92 +3,50 @@ package Boj.구현;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.StringTokenizer;
 
+// 70m (Fail -> Success)
+// 입력: 첫째 줄에 일정의 개수 N이 주어진다. (1 ≤ N ≤ 1000)
+//      둘째 줄부터 일정의 개수만큼 시작 날짜 S와 종료 날짜 E가 주어진다. (1 ≤ S ≤ E ≤ 365)
+// 출력: 코팅지의 면적을 출력한다.
+// 풀이 방향: 휴.. 코드 100줄 쓰다가 아닌 거 같애서 다시 풀었다. 문제의 핵심을 알면, 문제는 풀리게 되어 있다. 나는 모르겠다ㅠ
+// 시간 복잡도: O(N)
+
 public class 달력 {
-    static ArrayList<Line> lines = new ArrayList<>();
     public static void main(String[] args) throws IOException {
+        int[] year = new int[366];
+
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
         int n = Integer.parseInt(st.nextToken());
 
-        Line[] lineList = new Line[n];
         for (int i = 0; i < n; i++) {
             st = new StringTokenizer(br.readLine());
             int start = Integer.parseInt(st.nextToken());
             int end = Integer.parseInt(st.nextToken());
-            lineList[i] = new Line(start, end);
-        }
 
-        Arrays.sort(lineList, (o1, o2) -> {
-           if (o1.start == o2.start) {
-               return o2.size - o1.size; // 크기 내림차순
-           }
-           return o1.start - o2.start; // 시작 오름차순
-        });
+            for (int j = start; j <= end; j++) {
+                year[j] ++;
+            }
+        }
 
         int total = 0;
-
-        int bigStart = 0;
-        int bigEnd = 0;
-
-        for (int i = 0; i < lineList.length; i++) {
-            int start = lineList[i].start;
-            int end = lineList[i].end;
-            boolean newArrcheck = true; // 새로운 배열 만들어야 하는지
-
-            int newCheck = 0;
-            int newTr = 0;
-            for (int j = 0; j < lines.size(); j++) {
-                if (lines.get(j).end > start) {
-                    newCheck++; // line 생성
-                } else if (lines.get(j).start < end) {
-                    newTr++; // 새 도형 생성
-                }
-            }
-            // line 생성
-            if (newCheck == lines.size()) {
-                lines.add(new Line(start, end));
-                if (bigStart > start | lines.size() == 1) bigStart = start;
-                if (bigEnd < end) bigEnd = end;
-                continue;
-            }
-            // 새 도형 생성
-            if (newTr == lines.size()) {
-                total += (bigEnd - bigStart) * lines.size();
-
-                // 새로운 사각형 만들기
-                lines = new ArrayList<>();
-                bigStart = start;
-                bigEnd = end;
-                lines.add(new Line(start, end));
-                continue;
-            }
-
-            for (int j = 0; j < lines.size(); j++) {
-                Line one = lines.get(j);
-                if (one.end < start) {
-                    lines.set(j, new Line(one.start, end));
-                    if (bigEnd < end) bigEnd = end;
-                    break;
-                }
+        int maxH = 0;
+        int l = 0;
+        for (int i = 1; i <= 365; i++) {
+            if (year[i] == 0) {
+                total += maxH * l;
+                maxH = 0;
+                l = 0;
+            } else {
+                maxH = Math.max(maxH, year[i]);
+                l++;
             }
         }
+        total += maxH * l;
 
         System.out.println(total);
     }
 
-    private static class Line {
-        int start;
-        int end;
-        int size;
 
-        public Line(int start, int end) {
-            this.start = start;
-            this.end = end;
-            this.size = end - start;
-        }
-    }
 }
