@@ -122,6 +122,7 @@
 - [230310 | N과 M(4)(B15652)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/백트래킹/N과M_4.java)
 - [230310 | N과 M(5)(B15654)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/백트래킹/N과M_5.java)
 - [230310 | N과 M(6)(B15655)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/백트래킹/N과M_6.java)
+- [230310 | N과 M(7)(B15655)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/백트래킹/N과M_7.java)
 
 ### 투포인터
 - [230214 | 두 수의 합(B9024)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/투포인터/두수의합.java)
