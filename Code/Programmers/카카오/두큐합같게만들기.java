@@ -19,6 +19,7 @@ public class 두큐합같게만들기 {
         System.out.println(solution(q1, q2));
     }
 
+
     public static int solution(int[] queue1, int[] queue2) {
         int totalLength = queue1.length + queue2.length;
 

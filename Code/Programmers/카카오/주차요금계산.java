@@ -1,4 +1,4 @@
-package Boj.구현;
+package Programmers.카카오;
 import java.util.*;
 
 
@@ -13,6 +13,7 @@ class 주차요금계산 {
     static int defaultTime;
     static int defaultFee;
     static int unitTime;
+
     static int unitFee;
 
     public int[] solution(int[] fees, String[] records) {
