@@ -121,6 +121,8 @@
   
 ### 플로이드 워셜
 - [230415 | (S)저울(B10159)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/최단거리/저울.java)
+- [230422 | 케빈 베이커(B1389)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/최단거리/케빈베이커.java)
+- [230422 | 역사(B1613)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/최단거리/역사.java)
 
 ### 백트래킹
 - [230302 | N과 M(1)(B15649)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/백트래킹/N과M_1.java)
