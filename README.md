@@ -54,6 +54,8 @@
 - [230203 | 연산자 끼워넣기(B15658)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DfsBfs/연산자끼워넣기.java)
 - [230429 | 섬의 개수(B4963)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DfsBfs/섬의개수.java)
 - [230429 | 단지 번호 붙이기(B2667)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DfsBfs/단지번호붙이기.java)
+- [230505 | 카펫(P, 코테연습-완전탐색)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/Programmers/카펫.java)
+- [230505 | 전력망을 둘로 나누기(P, 코테연습-완전탐색)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/Programmers/전력망을둘로나누기.java)
 
 ### 정렬
 
