@@ -40,13 +40,10 @@ public class N과M_4 {
 			return;
 		}
 
-		boolean[] visited = new boolean[n+1];
 		for (int i = 1; i <= n; i++) {
-			if (!visited[i] && before <= i) {
-				visited[i] = true;
+			if (before <= i) {
 				arr[depth] = i;
 				search(depth+1, i);
-				visited[i] = false;
 			}
 		}
 	}

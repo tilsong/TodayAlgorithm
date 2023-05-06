@@ -38,12 +38,12 @@ public class N과M_5 {
 		}
 		Arrays.sort(arr);
 
-		search(0, 0);
+		search(0);
 
 		System.out.println(sb.toString());
 	}
 
-	static void search(int depth, int before) {
+	static void search(int depth) {
 		if (depth == m) {
 			for (int i = 0; i < m; i++) {
 				sb.append(nums[i]).append(' ');
@@ -57,7 +57,7 @@ public class N과M_5 {
 			if (!visited[i]) {
 				visited[i] = true;
 				nums[depth] = arr[i];
-				search(depth+1, arr[i]);
+				search(depth+1);
 				visited[i] = false;
 			}
 

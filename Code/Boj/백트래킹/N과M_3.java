@@ -25,12 +25,12 @@ public class N과M_3 {
 		m = Integer.parseInt(st.nextToken()); // depth
 		arr = new int [m];
 
-		search(0,0);
+		search(0);
 
 		System.out.println(sb.toString());
 	}
 
-	static void search(int depth, int before) {
+	static void search(int depth) {
 		if (depth == m) {
 			for (int i = 0; i < m; i++) {
 				sb.append(arr[i]).append(' ');
@@ -40,16 +40,9 @@ public class N과M_3 {
 			return;
 		}
 
-		boolean[] visited = new boolean[n+1];
-
 		for (int i = 1; i <= n; i++) {
-			if (!visited[i]) {
-				visited[i] = true;
-				arr[depth] = i;
-				search(depth+1, i);
-				visited[i] = false;
-			}
+			arr[depth] = i;
+			search(depth+1);
 		}
-
 	}
 }
