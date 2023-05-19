@@ -147,6 +147,7 @@
 - [230310 | N과 M(8)(B15657)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/백트래킹/N과M_8.java)
 - [230513 | N과 M(9)(B15663)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/백트래킹/N과M_9.java)
 - [230513 | N과 M(10)(B15664)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/백트래킹/N과M_10.java)
+- [230519 | 부등호(B2529)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/백트래킹/부등호.java)
 
 ### 투포인터
 - [230214 | 두 수의 합(B9024)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/투포인터/두수의합.java)
