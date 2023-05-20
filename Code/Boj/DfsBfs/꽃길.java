@@ -10,7 +10,7 @@ public class 꽃길 {
     static int[][] prices;
     static boolean[][] check;
     static int minPrice = 10000;
-    
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
@@ -62,26 +62,25 @@ public class 꽃길 {
                 }
 
                 if (can) {
-                    int total = 0;
-                    for (int k = 0; k < 4; k++) {
-                        int nRow = row + dRow[k];
-                        int nCol = col + dCol[k];
-                        check[nRow][nCol] = true;
-                        total += prices[nRow][nCol];
-                    }
-                    check[row][col] = true;
-                    total += prices[row][col];
-
-                    search(depth+1, totalPrice + total);
-                    for (int k = 0; k < 4; k++) {
-                        int nRow = row + dRow[k];
-                        int nCol = col + dCol[k];
-                        check[nRow][nCol] = false;
-                    }
-                    check[row][col] = false;
+                    search(depth+1, totalPrice + changeState(row, col, true));
+                    changeState(row, col, false);
                 }
             }
         }
+    }
+
+    private static int changeState(int row, int col, boolean state) {
+        int total = 0;
+        for (int k = 0; k < 4; k++) {
+            int nRow = row + dRow[k];
+            int nCol = col + dCol[k];
+            check[nRow][nCol] = state;
+            total += prices[nRow][nCol];
+        }
+        check[row][col] = state;
+        total += prices[row][col];
+
+        return total;
     }
 
     static int[] dRow = {0, 1, 0, -1};
