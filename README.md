@@ -63,7 +63,7 @@
 - [230429 | 섬의 개수(B4963)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DfsBfs/섬의개수.java)
 - [230429 | 단지 번호 붙이기(B2667)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DfsBfs/단지번호붙이기.java)
 - [230505 | 카펫(P, 코테연습-완전탐색)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/Programmers/카펫.java)
-- [230505 | 전력망을 둘로 나누기(P, 코테연습-완전탐색)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/Programmers/전력망을둘로나누기.java)
+- [230505 | 전력망을 둘로 나누기(P, 코테연습-완전탐색)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/DfsBfs/전력망을둘로나누기.java)
 - [230520 | 꽃길(B14620)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DfsBfs/꽃길.java)
 
 ### 정렬
@@ -83,8 +83,8 @@
 - [230208 | 카드 정렬하기(B1715)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/카드정렬하기.java)
 - [230209 | 내일 할꺼야(B7983)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/정렬/내일할꺼야.java)
 
-
 ### 이분 탐색
+
 - [230118 | 이진 탐색](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part7/이진탐색.java)
 - [230118 | 부품 찾기](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part7/부품찾기.java)
 - [230119 | 떡볶이 떡 만들기](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part7/떡볶이떡만들기.java)
