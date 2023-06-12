@@ -51,6 +51,7 @@
 - [230529 | 거북이(B8911)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/거북이.java)
 - [230604 | 단축키 지정(B1283)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/단축키지정.java)
 - [230604 | Valid Anagram(242)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/LeetCode/ValidAnagram.java)
+- [230613 | 프린트큐(B1966)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/프린터큐.java)
 
 ### DFS/BFS
 
