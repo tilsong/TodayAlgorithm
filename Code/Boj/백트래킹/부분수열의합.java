@@ -7,8 +7,7 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class 부분수열의합 {
-	static int total = 0;
-	static int dep = 0;
+	static int count = 0;
 	static int n;
 	static int s;
 	static int[] nums;
@@ -21,7 +20,6 @@ public class 부분수열의합 {
 		n = Integer.parseInt(st.nextToken());
 		s = Integer.parseInt(st.nextToken());
 		nums = new int[n];
-		arr = new int[n];
 		visited = new boolean[n];
 
 		st = new StringTokenizer(br.readLine());
@@ -30,36 +28,24 @@ public class 부분수열의합 {
 		}
 		Arrays.sort(nums);
 
-		for (int i = 1; i <= n ; i++) {
-			dep++;
-			search(0, nums[0]);
-		}
+		search(0, -1);
 
-		System.out.println(total);
+		System.out.println(count);
 	}
 
-	static void search(int depth, int before) {
-		if (depth == dep) {
-			int cost = 0;
-			for (int i = 0; i < dep; i++) {
-				System.out.print(arr[i]);
-				cost += arr[i];
-			}
-			System.out.println();
-
-			if (cost == s) {
-				total ++;
-			}
-			return;
+	static void search(int total, int before) {
+		if (total == s && before != -1) {
+			count++;
 		}
 
 		for (int i = 0; i < n; i++) {
-			if (!visited[i] && before <= arr[i]) {
+			if (!visited[i] && before < i) {
 				visited[i] = true;
-				arr[depth] = nums[i];
-				search(depth+1, arr[depth]);
+				search(total+nums[i], i);
 				visited[i] = false;
 			}
 		}
 	}
 }
+
+
