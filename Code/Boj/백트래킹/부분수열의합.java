@@ -46,6 +46,16 @@ public class 부분수열의합 {
 			}
 		}
 	}
+
+	// tree의 전위 순회를 통한 구현
+	static void search2(int depth, int sum) {
+		if (depth == n) {
+			if (sum == s) count++;
+			return;
+		}
+		search2(depth + 1, sum + nums[depth]);
+		search2(depth + 1, sum);
+	}
 }
 
 
