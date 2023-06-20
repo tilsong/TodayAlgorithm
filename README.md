@@ -56,6 +56,7 @@
 - [230614 | 점프와 순간이동(P, Summer/Winter Coding(~2018))](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/미분류/점프와순간이동.java)
 - [230615 | 풀링_222(B17829)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/풀링_222.java)
 - [230616 | 경비원(B2564)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/경비원.java)
+- [230620 | 추월(B2002)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/추월.java)
 
 ### DFS/BFS
 
