@@ -58,6 +58,10 @@
 - [230616 | 경비원(B2564)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/경비원.java)
 - [230620 | 추월(B2002)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/추월.java)
 
+### 시뮬레이션
+- [230621 | 사탕 게임(B3085)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/사탕게임.java)
+
+
 ### DFS/BFS
 
 - [230115 | 음료수 얼려먹기](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part5/음료수얼려먹기.java)
