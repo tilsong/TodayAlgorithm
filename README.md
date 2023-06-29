@@ -62,7 +62,8 @@
 ### 시뮬레이션
 - [230621 | 사탕 게임(B3085)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/사탕게임.java)
 - [230628 | 로봇 청소기(B14503)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/로봇청소기.java)
-
+- [230629 | (S)컨베이어 벨트 위의 로봇(B20055)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/컨베이어벨트위의로봇.java)
+  
 ### 자료구조
 - [230621 | 최소 힙(B1927)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/자료구조/최소힙.java)
 
