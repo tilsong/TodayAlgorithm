@@ -5,6 +5,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
+// 다른 거는 제쳐두고 이해해야 하는 부분
+//  같은 문자열일 경우
+//  -> 출력해야 하는 것은 중복 없는 집합이므로 선택에서 제외 시켜야 한다.
+//     따라서 아래 로직에서는 if (count == n-1) 로직이 수행되도록 같은 문자열일 때도 count에 추가해준다.
+
 public class 접두사 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
