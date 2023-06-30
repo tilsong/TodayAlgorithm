@@ -59,6 +59,7 @@
 - [230620 | 추월(B2002)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/추월.java)
 - [230622 | 창고다각형(B2304)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/창고다각형.java)
 - [230630 | 접두사(B1104)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/접두사.java)
+- [230630 | 안정적인 문자열(B4889)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/안정적인문자열.java)
 
 ### 시뮬레이션
 - [230621 | 사탕 게임(B3085)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/사탕게임.java)
