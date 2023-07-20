@@ -70,6 +70,7 @@
 - [230717 | 마법사 상어와 비바라기(B21610)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/마법사상어와비바라기.java)
 - [230719 | 카드섞기(B21315)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/카드섞기.java)
 - [230720 | 톱니바퀴(B14891)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/톱니바퀴.java)
+- [230720 | 상어초등학교(B21608)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/상어초등학교.java)
   
 ### 자료구조
 - [230621 | 최소 힙(B1927)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/자료구조/최소힙.java)
