@@ -184,6 +184,7 @@
 - [230617 | 부분 수열의 합(B1182)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/백트래킹/부분수열의합.java)
 - [230717 | 치킨 배달(B15686)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/백트래킹/치킨배달.java)
 - [230805 | 컴백홈(B1189)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/백트래킹/컴백홈.java)
+- [230808 | 스타트와 링크(B14889)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/백트래킹/스타트와링크.java)
 
 ### 투포인터
 - [230214 | 두 수의 합(B9024)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/투포인터/두수의합.java)
