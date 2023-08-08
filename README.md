@@ -74,6 +74,7 @@
 - [230720 | 상어초등학교(B21608)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/상어초등학교.java)
 - [230721 | 미세먼지안녕(B17144)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/미세먼지안녕.java)
 - [230803 | 드래곤커브(B15685)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/드래곤커브.java)
+- [230808 | 주사위굴리기(B14499)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/주사위굴리기.java)
   
 ### 자료구조
 - [230621 | 최소 힙(B1927)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/자료구조/최소힙.java)
