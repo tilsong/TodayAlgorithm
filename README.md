@@ -75,6 +75,7 @@
 - [230721 | 미세먼지안녕(B17144)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/미세먼지안녕.java)
 - [230803 | 드래곤커브(B15685)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/드래곤커브.java)
 - [230808 | 주사위굴리기(B14499)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/주사위굴리기.java)
+- [230810 | 뱀(B3190)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/뱀.java)
   
 ### 자료구조
 - [230621 | 최소 힙(B1927)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/자료구조/최소힙.java)
@@ -98,7 +99,6 @@
 - [230809 | 타겟넘버(P, 코테연습)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/DfsBfs/타겟넘버.java)
 
 ### 정렬
-
 - [230117 | 선택 정렬](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part6/선택정렬.java)
 - [230117 | 삽입 정렬](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part6/삽입정렬.java)
 - [230117 | 퀵 정렬](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part6/퀵정렬.java)
