@@ -63,6 +63,7 @@
 - [230709 | 흙길 보수하기(B1911)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/흙길보수하기.java)
 - [230715 | 배열 돌리기(B17276)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/배열돌리기17276.java)
 - [230806 | 단어 맞추기(B9081)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/단어맞추기.java)
+- [230813 | 테트로미노(B14500)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/구현/테트로미노.java)
 
 ### 시뮬레이션
 - [230621 | 사탕 게임(B3085)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/사탕게임.java)
