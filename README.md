@@ -78,6 +78,7 @@
 - [230808 | 주사위굴리기(B14499)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/주사위굴리기.java)
 - [230810 | 뱀(B3190)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/뱀.java)
 - [230811 | 감시(B15683)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/감시.java)
+- [230831 | 마법사 상어와 파이어볼(B20056)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/시뮬레이션/마법사상어와파이어볼.java)
   
 ### 자료구조
 - [230621 | 최소 힙(B1927)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/자료구조/최소힙.java)
