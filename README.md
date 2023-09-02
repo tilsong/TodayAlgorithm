@@ -100,6 +100,7 @@
 - [230505 | 전력망을 둘로 나누기(P, 코테연습-완전탐색)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/DfsBfs/전력망을둘로나누기.java)
 - [230520 | 꽃길(B14620)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DfsBfs/꽃길.java)
 - [230809 | 타겟넘버(P, 코테연습)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/DfsBfs/타겟넘버.java)
+- [230902 | 거리두기 확인하기(P, 2021 카카오 채용연계형 인턴십)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/카카오/거리두기확인하기.java)
 
 ### 정렬
 - [230117 | 선택 정렬](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part6/선택정렬.java)
