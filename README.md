@@ -101,6 +101,7 @@
 - [230520 | 꽃길(B14620)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DfsBfs/꽃길.java)
 - [230809 | 타겟넘버(P, 코테연습)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/DfsBfs/타겟넘버.java)
 - [230902 | 거리두기 확인하기(P, 2021 카카오 채용연계형 인턴십)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/카카오/거리두기확인하기.java)
+- [230910 | 이모티콘 할인행사(P, 2023 카카오 블라인드)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Programmers/카카오/이모티콘할인행사.java)
 
 ### 정렬
 - [230117 | 선택 정렬](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part6/선택정렬.java)
