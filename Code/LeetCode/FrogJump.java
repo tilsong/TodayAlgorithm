@@ -1,6 +1,6 @@
 // 풀이 링크 https://www.notion.so/song229/Frog-Jump-14b15151246847deb8008c41b5f40f26
 
-class Solution {
+class FrogJump {
     public boolean canCross(int[] stones) {
         int n = stones.length;
         boolean[][] dp = new boolean[n][n];
