@@ -153,6 +153,7 @@
 - [230221 | (S) 평범한 배낭](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DP/평범한배낭.java)
 - [230222 | (S) 피자(Large)](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DP/피자Large.java)
 - [230222 | 돌게임 3](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Boj/DP/돌게임3.java)
+- [231010 | Frog Jump](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/LeetCode/FrogJump.java)
 
 ### 다익스트라
 - [230122 | 미래 도시](https://github.com/tilsong/TodayAlgorithm/blob/main/Code/Ecote/part9/미래도시.java)
